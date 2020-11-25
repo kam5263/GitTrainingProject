@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Title modified by User2</title>
 </head>
 <body>
-
+    <h2>This is content</h2>
 </body>
 </html>
