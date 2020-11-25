@@ -12,6 +12,7 @@
     	<legend>어차피 없어질 내용들ㅋ</legend>
     	<ul>
     		<li>노의미</li>
+    		<li>졸려</li>
     	</ul>
     </fieldset>
 </body>
