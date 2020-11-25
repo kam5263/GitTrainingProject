@@ -8,5 +8,8 @@
 </head>
 <body>
     <h2>This is content</h2>
+    <fieldset>
+    	<legend>어차피 없어질 내용들ㅋ</legend>
+    </fieldset>
 </body>
 </html>
