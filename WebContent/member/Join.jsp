@@ -7,6 +7,6 @@
 <title>join.jsp</title>
 </head>
 <body>
-
+	NO 의미
 </body>
 </html>
