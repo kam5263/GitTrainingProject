@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Title modified by User2</title>
+<title>join.jsp</title>
 </head>
 <body>
-    <h2>This is content</h2>
-    <h3>member가 추가한</h3>
+
 </body>
 </html>
